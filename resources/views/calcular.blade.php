@@ -21,6 +21,6 @@
         </style>
     </head>
     <body>
-        <h2>Resultado: {{ $resultado }} </h2>
+        <h2>Resultado: {{ $resultado }}</h2>
     </body>
 </html>
